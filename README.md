@@ -12,6 +12,7 @@
   <a href="#how-to-use">How to Use</a> •
   <a href="#preview">Preview</a> •
   <a href="#technologies-used">Tech Stack</a> •
+    <a href="#stats">Stats</a> •
   <a href="#credits">Credits</a> •
   <a href="#contact">Contact</a>
 </p>
@@ -43,21 +44,21 @@ This project is a **clone of the Netflix homepage** created using **pure HTML an
 ### 🔽 Clone the Project
 
 ```bash
-git clone https://github.com/your-username/netflix-clone
+git clone https://github.com/salman-ahmed-2/Netflix-clone-webpage
 cd netflix-clone
 ```
 
 ### ▶️ Run in Browser
 
-Open `index.html` in any modern browser:
+Open `netflix.html` in any modern browser:
 
-- Double-click `index.html`, or  
+- Double-click `netflix.html`, or  
 - Open with Live Server in VS Code, or  
 - Run from terminal:
 ```bash
-start index.html       # Windows
-xdg-open index.html    # Linux
-open index.html        # macOS
+start netflix.html       # Windows
+xdg-open netflix.html    # Linux
+open netflix.html        # macOS
 ```
 
 ---
@@ -75,6 +76,17 @@ open index.html        # macOS
 ![CSS3](https://img.shields.io/badge/CSS3-blue)  
 ![Responsive Design](https://img.shields.io/badge/Responsive-Mobile%20Friendly-green)  
 ![VS Code](https://img.shields.io/badge/IDE-VSCode-informational)
+
+---
+##  stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salman-ahmed-2&theme=dark&hide_border=true" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=salman-ahmed-2&show_icons=true&theme=dark&hide_border=true" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salman-ahmed-2&layout=compact&theme=dark&hide_border=true" />
+</p>
 
 ---
 
