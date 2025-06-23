@@ -1,7 +1,7 @@
 # 🎬 Netflix Main Page Clone
 
 <div align="center">
-  <img src="logo.png" width="150" alt="Netflix Logo"><br>
+  <img src="logo.svg" width="150" alt="Netflix Logo"><br>
   <b>Netflix Landing Page UI Clone</b><br>
   <i>Built using only HTML & CSS | No JS | Responsive Design</i>
 </div>
@@ -18,7 +18,7 @@
 
 ---
 
-## 📖 About the Project
+##  About the Project
 
 This project is a **clone of the Netflix homepage** created using **pure HTML and CSS**, designed to mimic the look and feel of the original Netflix landing page. It's a static, front-end-only project with no JavaScript or backend functionality.
 
@@ -28,7 +28,7 @@ This project is a **clone of the Netflix homepage** created using **pure HTML an
 
 ##  Features
 
-- ✅ Fully responsive layout (desktop, tablet, mobile)
+- ✅ layout (desktop)
 - 🎨 Matching Netflix theme colors and fonts
 - 🖼️ Background video/image banner
 - 📩 Email subscription form
@@ -62,7 +62,7 @@ open index.html        # macOS
 
 ---
 
-## 🌐 Preview
+##  Preview
 
 ![Preview](netflix.gif)
 
